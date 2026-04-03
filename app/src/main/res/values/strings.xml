@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HamburgueriaZ</string>
+    <string-array name="hamburgueres_array">
+        <item>X-Burguer Clássico</item>
+        <item>X-Salada Especial</item>
+        <item>X-Bacon Supremo</item>
+        <item>Cheddar e Cebola Caramelizada</item>
+        <item>Duplo Smash Burguer</item>
+        <item>Opção Vegetariana (Grão-de-Bico)</item>
+    </string-array>
+</resources>
